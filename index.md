@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# A Detailed Roadmap
+# Ham Radio Roadmap
 
 This is just a dummy paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
